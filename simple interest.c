@@ -7,8 +7,7 @@ int main()
     printf("enter the value of time\n");
     scanf("%d\n",&t);
     printf("enter the value of interset\n");
-    scanf("%d\n",r);
+    scanf("%d\n",&r);
     si=(p*t*r)/100;
     printf("simple interest=%d\n",si);
-    
 }
