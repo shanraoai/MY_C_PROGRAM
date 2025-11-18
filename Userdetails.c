@@ -1,5 +1,5 @@
 #include <stdio.h>
-int  jaibalaya(){
+int  Userdetails(){
     char name,department;
     int age;
     printf("enter a name\n");
@@ -9,7 +9,7 @@ int  jaibalaya(){
     printf("enter a department\n");
     scanf("%s",&department);
 }                                                                     int main(){
-     jaibalaya();
+    Userdetails();
 }                                                                 
 
        
